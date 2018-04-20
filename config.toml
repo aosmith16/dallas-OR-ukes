@@ -1,13 +1,11 @@
-baseurl = "/"#
-enableEmoji = true
+baseurl = "https://dallas-or-ukes.netlify.com/" #
+enableEmoji = true #
 #languageCode = "en-us"#
 title = "Dallas (Oregon!) Ukulele group"#
 theme = "hugo-xmin"#
-googleAnalytics = ""#
-disqusShortname = ""#
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]#
 preserveTaxonomyNames = true#
-footnotereturnlinkcontents = "↩"#
+#footnotereturnlinkcontents = "↩"#
 #
 #[permalinks]#
  #   post = "/post/:slug/"#

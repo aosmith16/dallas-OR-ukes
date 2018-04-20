@@ -1,7 +1,6 @@
 ---
 title: About the Dallas (Oregon!) Ukulele group
 ---
-
 The Dallas (Oregon!) Ukulele group was started by the [Ukulele Fans of Oregon](http://www.ukulelefansoforegon.com/) (UFO) but has since become an independent group operating under the UFO umbrella.
 
 The group meets on the 1st and 3rd Wednesday of every month from 5:15 PM to 6:45 PM at the [Dallas Public Library](https://www.ci.dallas.or.us/102/Library).  All ages and skill levels are welcome.  Three ukuleles are available for check-out from the library if you don't have one of your own yet and want to try it out.

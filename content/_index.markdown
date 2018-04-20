@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />
+<img src=/img/four.ukes.png/ style="max-width:20%;min-width:40px;float:right;" alt="Github repo" />
 
 # Dallas (Oregon!) Ukulele Group
 
@@ -36,4 +36,4 @@ There are many versions of this song, and we are currently playing it much like 
 Find inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)
 
  
-Additional song tabs from past or future play lists can be found [here](/note/additional-ukulele-song-tabs/).
+Additional song tabs from past or future play lists can be found below.
