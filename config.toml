@@ -1,0 +1,28 @@
+baseurl = "/"#
+enableEmoji = true
+#languageCode = "en-us"#
+title = "Dallas (Oregon!) Ukulele group"#
+theme = "hugo-xmin"#
+googleAnalytics = ""#
+disqusShortname = ""#
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]#
+preserveTaxonomyNames = true#
+footnotereturnlinkcontents = "↩"#
+#
+#[permalinks]#
+ #   post = "/post/:slug/"#
+    note = "/note/:slug/"#
+#
+[[menu.main]]#
+    name = "Home"#
+    url = "/"#
+    weight = 1#
+[[menu.main]]#
+    name = "About"#
+    url = "/about/"#
+    weight = 2#
+#
+[params]#
+    description = "A website built through Hugo and blogdown."#
+    footer = " | [Email Dan for more information](mailto:skylarkguy@hotmail.com) | "#
+#
