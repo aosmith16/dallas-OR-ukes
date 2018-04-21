@@ -19,6 +19,10 @@ preserveTaxonomyNames = true#
     name = "About"#
     url = "/about/"#
     weight = 2#
+[[menu.main]]
+name = "Additional Resources"
+url = "/additional/"#
+weight = 3#
 #
 [params]#
     description = "A website built through Hugo and blogdown."#

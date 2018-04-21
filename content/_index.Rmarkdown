@@ -2,11 +2,11 @@
 title: Home
 ---
 
-<img src=/img/four.ukes.png/ style="max-width:20%;min-width:40px;float:right;" alt="Github repo" />
+<img src=/img/four.ukes.png/ style="max-width:20%;min-width:40px;float:right;" />
 
 # Dallas (Oregon!) Ukulele Group
 
-## _Playing ukuleles in the mid-valley_
+## _Playing ukuleles in the Mid-Valley_
 
 See the [About](/about/) page for more information about who we are and what we do.
  
@@ -14,10 +14,10 @@ See the [About](/about/) page for more information about who we are and what we 
 
 This is the list of songs we play at every meeting.  We play additional songs as requested, so bring something to share!
 
-+ **San Francisco Bay Blues** - page 238 of Blue Daily Ukulele  
++ **San Francisco Bay Blues** - page 238 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 We play more-or-less the Eric Clapton version, which you can listen to [here](https://www.youtube.com/watch?v=qKi3ruCmZxk)  
 
-+ **You and I** - page 397 of Blue Daily Ukulele  
++ **You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 See the example [here](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
 
 + **In the Early Morning Rain** - [handout](/tabs/In The Early Morning Rain.pdf/)  
@@ -26,7 +26,7 @@ See Gordon Lightfoot play a his version [here](https://www.youtube.com/watch?v=1
 + **Ripple** - [handout](/tabs/Ripple.pdf/)  
 Get an idea of how the Grateful Dead played this [here](https://www.youtube.com/watch?v=671AgW9xSiA)  
 
-+ **Catch the Wind** - page 67 of Blue Daily Ukulele  
++ **Catch the Wind** - page 67 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 [Here](https://www.youtube.com/watch?v=J8hjEYTpwE8) is Donovan's version  
 
 + **Hele on to Kauai** - [handout](/tabs/Hele on to Kauai_2018.pdf/)  
@@ -36,4 +36,4 @@ There are many versions of this song, and we are currently playing it much like 
 Find inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)
 
  
-Additional song tabs from past or future play lists can be found below.
+Additional song tabs from past or future play lists can be found on the [Additional Resources](/additional/) page.
