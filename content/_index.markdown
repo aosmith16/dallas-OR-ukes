@@ -32,7 +32,7 @@ Get an idea of how the Grateful Dead played this [here](https://www.youtube.com/
 + **Hele on to Kauai** - [handout](/tabs/Hele on to Kauai_2018.pdf/)  
 There are many versions of this song, and we are currently playing it much like the version done [here](https://www.youtube.com/watch?v=YQecYn0AKYg)  
 
-+ **Do you Want to Know a Secret** - [handout](/tabs/Do You Want to Know a Secret_2018-04.pdf/)  
++ **Do You Want to Know a Secret** - [handout](/tabs/Do You Want to Know a Secret_2018-04.pdf/)  
 Find inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)
 
  
