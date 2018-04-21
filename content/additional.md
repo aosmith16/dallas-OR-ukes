@@ -24,6 +24,6 @@ Here are links to ukulele tabs we've used in the past or might add to the playli
 
 [Wagon wheel (in A)](/tabs/Wagon_wheel.pdf)
 
-[Wagon wheel finger-picking](/tabs/Wagon_wheel/picking.pdf)
+[Wagon wheel finger-picking](/tabs/Wagon_wheel_picking.pdf)
 
 [While My Guitar Gently Weeps](/tabs/While My Guitar Gently Weeps- Guitar.doc)
