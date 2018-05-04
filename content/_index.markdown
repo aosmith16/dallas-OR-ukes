@@ -33,7 +33,10 @@ Get an idea of how the Grateful Dead played this [here](https://www.youtube.com/
 There are many versions of this song, and we are currently playing it much like the version done [here](https://www.youtube.com/watch?v=YQecYn0AKYg)  
 
 + **Do You Want to Know a Secret** - [handout](/tabs/Do You Want to Know a Secret_2018-04.pdf/)  
-Find inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)
+Find inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)  
+
++ **Octopus's Garden** - page 268 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+This version is in the key of C
 
  
 Additional song tabs from past or future play lists can be found on the [Additional Resources](/additional/) page.
