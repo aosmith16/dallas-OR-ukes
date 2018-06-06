@@ -21,7 +21,7 @@ We play more-or-less the Eric Clapton version, which you can [listen to here](ht
 [Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
 
 + **In the Early Morning Rain** - [handout](/tabs/In The Early Morning Rain.pdf/)  
-Watch Gordon Lightfoot [play a his version](https://www.youtube.com/watch?v=1pqttl9aWm0)  
+Watch Gordon Lightfoot [play his version](https://www.youtube.com/watch?v=1pqttl9aWm0)  
 
 + **Ripple** - [handout](/tabs/Ripple.pdf/)  
 Get an idea of how the [Grateful Dead played it](https://www.youtube.com/watch?v=671AgW9xSiA)  
