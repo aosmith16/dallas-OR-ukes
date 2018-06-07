@@ -12,7 +12,7 @@ See the [About](/about/) page for more information about who we are and what we 
  
 ## Current song list
 
-This is the list of songs we play at every meeting.  We play additional songs as requested, so bring something to share!
+This is the list of songs we play at every meeting.  We play additional songs each time, so bring something to share!
 
 + **San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)  
