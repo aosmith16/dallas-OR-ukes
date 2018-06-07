@@ -38,7 +38,7 @@ Find some inspiration [here](https://www.youtube.com/watch?v=tdATosVaJsU)
 + **Octopus's Garden** - page 268 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 This version is in the key of C
 
-+ **Nobody Knows You When You're Down and Out** - [handout](/tabs/Nobody Knows You When You.docx)
++ **Nobody Knows You When You're Down and Out** - [handout](/tabs/Nobody Knows You When You.docx)  
 [Listen to Eric Clapton sing it live](https://www.youtube.com/watch?v=0b-OHZI1Q5w)
 
  
