@@ -1,2 +1,7 @@
 # dallas-OR-ukes
-Repo to store Dallas, Oregon ukulele group website source content
+
+**Dallas (Oregon!) Ukulele group**
+
+Repository for Dallas, Oregon ukulele group website source content
+
+Website: http://dallas-or-ukes.netlify.com/
