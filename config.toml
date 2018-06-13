@@ -3,7 +3,7 @@ enableEmoji = true
 #languageCode = "en-us"
 title = "Dallas (Oregon!) Ukulele group"
 theme = "hugo-xmin"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]#
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 #footnotereturnlinkcontents = "↩"
 
