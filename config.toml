@@ -1,30 +1,29 @@
-baseurl = "https://dallas-or-ukes.netlify.com/" #
-enableEmoji = true #
-#languageCode = "en-us"#
-title = "Dallas (Oregon!) Ukulele group"#
-theme = "hugo-xmin"#
+baseurl = "https://dallas-or-ukes.netlify.com/" 
+enableEmoji = true 
+#languageCode = "en-us"
+title = "Dallas (Oregon!) Ukulele group"
+theme = "hugo-xmin"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]#
-preserveTaxonomyNames = true#
-#footnotereturnlinkcontents = "↩"#
-#
+preserveTaxonomyNames = true
+#footnotereturnlinkcontents = "↩"
+
 #[permalinks]#
  #   post = "/post/:slug/"#
-    note = "/note/:slug/"#
-#
+  #  note = "/note/:slug/"#
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 [[menu.main]]#
-    name = "Home"#
-    url = "/"#
-    weight = 1#
-[[menu.main]]#
-    name = "About"#
-    url = "/about/"#
-    weight = 2#
+    name = "About"
+    url = "/about/"
+    weight = 2
 [[menu.main]]
 name = "Additional Resources"
-url = "/additional/"#
-weight = 3#
-#
-[params]#
-    description = "A website built through Hugo and blogdown."#
-    footer = " | [Email Dan for more information](mailto:skylarkguy@hotmail.com) | "#
-#
+url = "/additional/"
+weight = 3
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = " | [Email Dan for more information](mailto:skylarkguy@hotmail.com) | "
