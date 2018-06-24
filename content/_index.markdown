@@ -8,6 +8,8 @@ title: Home
 
 ## _Playing ukuleles in the Mid-Valley_
 
+<span style = "font-size:20px"">**Announcement:** *Dallas (Oregon!) Ukulele Group will not meet on the first Wednesday of July as it falls on the 4th of July holiday.  Our next meeting will be on July 18.*</span>
+
 See the [About](/about/) page for more information about who we are and what we do.
  
 ## Current song list
