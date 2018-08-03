@@ -4,7 +4,11 @@ title: Additional Tabs and Resources
 
 <img src=/img/uke.case.png/ style="max-width:25%;min-width:40px;float:right;" />
 
-Here are links to ukulele tabs we've used in the past or might add to the playlist in the future.
+This page is to keep track of songs that were previously on the playlist or might be added in the future.  If you have a tab you want to add to the list so others have access to it, [email a PDF or Word document to Dan](mailto:skylarkguy@hotmail.com).
+
+These are listed alphabetically, not by order of importance or time since the song was on the playlist.  :smiley:
+
+## Tabs
 
 [Landslide](/tabs/landslide.pdf)
 
@@ -27,3 +31,13 @@ Here are links to ukulele tabs we've used in the past or might add to the playli
 [Wagon wheel finger-picking](/tabs/Wagon_wheel_picking.pdf)
 
 [While My Guitar Gently Weeps](/tabs/While My Guitar Gently Weeps- Guitar.doc)
+
+## Songs from the Daily Ukulele books
+
+This is a list of the songs from the Daily Ukulele books that have previously been on the playlist.
+
+**San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)
+
+**You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+[Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  

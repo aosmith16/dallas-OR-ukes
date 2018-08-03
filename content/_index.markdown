@@ -10,17 +10,15 @@ title: Home
 
 See the [About](/about/) page for more information about who we are and what we do.
 
-**August meetings:** August 1, August 15 
+**August meetings:** August 1, August 15  
+**September meetings:** September 5, September 19  
+**October meetings:** October 3, October 17  
+**November meetings:** November 7, November 21  
+**December meetings:** December 5, December 19  
 
 ## Current song list
 
-This is the list of songs we play at every meeting.  We play additional songs each time, so bring something to share!
-
-+ **San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)  
-
-+ **You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-[Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
+Below is the list of songs we play at every meeting, which we update periodically.  We play additional songs each time, so bring something to share!  
 
 + **In the Early Morning Rain** - [handout](/tabs/In The Early Morning Rain.pdf/)  
 Watch Gordon Lightfoot [play his version](https://www.youtube.com/watch?v=1pqttl9aWm0)  
@@ -48,4 +46,4 @@ Also see the tutorial [here](https://www.youtube.com/watch?v=Ix-Le6ngZes) for st
 Try it with a calypso strum!  
 Here are [the Drifters singing it](https://www.youtube.com/watch?v=KOAuhjb2e1Y)  
  
-Additional song tabs from past or for future play lists can be found on the [Additional Resources](/additional/) page.
+Past playlist songs are listed under [Additional Resources](/additional/).
