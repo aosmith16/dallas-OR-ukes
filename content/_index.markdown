@@ -9,7 +9,9 @@ title: Home
 ## _Playing ukuleles in the Mid-Valley_
 
 See the [About](/about/) page for more information about who we are and what we do.
- 
+
+**August meetings:** August 1, August 15 
+
 ## Current song list
 
 This is the list of songs we play at every meeting.  We play additional songs each time, so bring something to share!
@@ -41,5 +43,9 @@ The version we're playing is in the key of C
 + **Nobody Knows You When You're Down and Out** - [handout](/tabs/Nobody Knows You When You.docx)  
 [Listen to Eric Clapton sing it live](https://www.youtube.com/watch?v=0b-OHZI1Q5w)  
 Also see the tutorial [here](https://www.youtube.com/watch?v=Ix-Le6ngZes) for strum inspiration
+
++ **This Magic Moment** - page 353 of <span style="color:royalblue">Blue Daily Ukulele</span>   
+Try it with a calypso strum!  
+Here are [the Drifters singing it](https://www.youtube.com/watch?v=KOAuhjb2e1Y)  
  
 Additional song tabs from past or for future play lists can be found on the [Additional Resources](/additional/) page.
