@@ -10,6 +10,8 @@ These are listed alphabetically, not by order of importance or time since the so
 
 ## Tabs
 
+[In the Early Morning Rain](/tabs/In The Early Morning Rain.pdf/)
+
 [Landslide](/tabs/landslide.pdf)
 
 [Lonely People](/tabs/Lonely People.docx)

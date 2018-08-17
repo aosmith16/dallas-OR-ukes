@@ -10,7 +10,6 @@ title: Home
 
 See the [About](/about/) page for more information about who we are and what we do.
 
-**August meetings:** August 1, August 15  
 **September meetings:** September 5, September 19  
 **October meetings:** October 3, October 17  
 **November meetings:** November 7, November 21  
@@ -19,9 +18,6 @@ See the [About](/about/) page for more information about who we are and what we 
 ## Current song list
 
 Below is the list of songs we play at every meeting, which we update periodically.  We play additional songs each time, so bring something to share!  
-
-+ **In the Early Morning Rain** - [handout](/tabs/In The Early Morning Rain.pdf/)  
-Watch Gordon Lightfoot [play his version](https://www.youtube.com/watch?v=1pqttl9aWm0)  
 
 + **Ripple** - [handout](/tabs/Ripple.pdf/)  
 Get an idea of how the [Grateful Dead played it](https://www.youtube.com/watch?v=671AgW9xSiA)  
@@ -45,5 +41,8 @@ Also see the tutorial [here](https://www.youtube.com/watch?v=Ix-Le6ngZes) for st
 + **This Magic Moment** - page 353 of <span style="color:royalblue">Blue Daily Ukulele</span>   
 Try it with a calypso strum!  
 Here are [the Drifters singing it](https://www.youtube.com/watch?v=KOAuhjb2e1Y)  
- 
+
++ **Little Red Uke** - [handout](/tabs/Little_Red_Uke.pdf)  
+This is sung to the tune of [Little Deuce Coupe](https://www.youtube.com/watch?time_continue=1&v=ZXFFLuoaMzM) by the Beach Boys
+
 Past playlist songs are listed under [Additional Resources](/additional/).
