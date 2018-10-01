@@ -10,8 +10,8 @@ title: Home
 
 See the [About](/about/) page for more information about who we are and what we do.
 
-**October meetings:** October 3, October 17
-**November meetings:** November 7, November 21
+**October meetings:** October 3, October 17</br>
+**November meetings:** November 7, November 21</br>
 **December meetings:** December 5, December 19
 
 ## Current song list
