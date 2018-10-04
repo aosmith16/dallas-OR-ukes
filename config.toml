@@ -1,5 +1,5 @@
-baseurl = "https://dallas-or-ukes.netlify.com/" 
-enableEmoji = true 
+baseurl = "https://dallas-or-ukes.netlify.com/"
+enableEmoji = true
 #languageCode = "en-us"
 title = "Dallas (Oregon!) Ukulele group"
 theme = "hugo-xmin"
@@ -26,4 +26,4 @@ weight = 3
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = " | [Email Dan for more information](mailto:skylarkguy@hotmail.com) | "
+    footer = " | [Email Dan B. for more information](mailto:skylarkguy@hotmail.com) | "
