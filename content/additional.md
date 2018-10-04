@@ -43,3 +43,15 @@ We play more-or-less the Eric Clapton version, which you can [listen to here](ht
 
 **You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 [Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
+
+## T-shirts 
+
+We've been seeing different versions of "Ukes not Nukes" t-shirts worn by group members, and folks expressed interest in some links about them added here.  There is an amazing variety of styles and patterns of these shirts; try searching "ukes not nukes shirt" in your favorite search engine to see some!  
+
+Some examples:  
+[Topatoco version](https://topatoco.com/products/sgr-ukes)  
+[Chummy tees version](https://chummytees.com/products/ukes-not-nukes-funny-ukulele-t-shirt-hoodie-tank-top)  
+[Redbubble has several options](https://www.redbubble.com/shop/ukes+not+nukes+t-shirts)  
+[The shirt Dan B. has](https://www.amazon.com/Ukes-Not-Nukes-T-Shirt-Musician/dp/B07D749YFB/)
+
+If you find additional examples you want to share, send them along to [Dan](mailto:skylarkguy@hotmail.com) and we'll put them here!

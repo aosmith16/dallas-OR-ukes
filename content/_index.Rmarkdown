@@ -45,11 +45,3 @@ Here are [the Drifters singing it](https://www.youtube.com/watch?v=KOAuhjb2e1Y)
 This is sung to the tune of [Little Deuce Coupe](https://www.youtube.com/watch?time_continue=1&v=ZXFFLuoaMzM) by the Beach Boys
 
 Past playlist songs are listed under [Additional Resources](/additional/).
-
-*Aside about t-shirts*  
-We've been seeing different versions of "Ukes not Nukes" t-shirts worn by group members, and folks expressed interest in some links about them added here.  There is an amazing variety of styles and patterns of these shirts; try searching "ukes not nukes shirt" in your favorite search engine to see some!  
-Some examples:  
-[Topatoco version](https://topatoco.com/products/sgr-ukes)  
-[Chummy tees version](https://chummytees.com/products/ukes-not-nukes-funny-ukulele-t-shirt-hoodie-tank-top)  
-[Redbubble has several options](https://www.redbubble.com/shop/ukes+not+nukes+t-shirts)  
-[The shirt Dan B. has](https://www.amazon.com/Ukes-Not-Nukes-T-Shirt-Musician/dp/B07D749YFB/)
