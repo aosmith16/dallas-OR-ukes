@@ -26,6 +26,8 @@ These are listed alphabetically, not by order of importance or time since the so
 
 [Take Me Home Country Roads](/tabs/Take Me Home Country Roads.pdf)
 
+[Tiny Dancer](/tabs/Tiny_Dancer.pdf)
+
 [Upside Down (in E)](/tabs/Upside Down.pdf)
 
 [Wagon wheel (in A)](/tabs/Wagon_wheel.pdf)
