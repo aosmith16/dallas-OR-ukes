@@ -10,15 +10,23 @@ These are listed alphabetically, not by order of importance or time since the so
 
 ## Tabs
 
+[Do You Want to Know a Secret](/tabs/Do You Want to Know a Secret_2018-04.pdf/)
+
+[Hele on to Kauai](/tabs/Hele on to Kauai_2018.pdf/)
+
 [In the Early Morning Rain](/tabs/In The Early Morning Rain.pdf/)
 
 [Landslide](/tabs/landslide.pdf)
+
+[Little Red Uke](/tabs/Little_Red_Uke.pdf)
 
 [Lonely People](/tabs/Lonely People.docx)
 
 [Nobody Knows You When You're Down and Out](/tabs/Nobody Knows You When You.docx)
 
 [Rainbow connection](/tabs/Rainbow connection.pdf)
+
+[Ripple](/tabs/Ripple.pdf/)
 
 [Rocketman](/tabs/Rocketman- Elton John & Bernie Taupin.docx)
 
@@ -40,8 +48,17 @@ These are listed alphabetically, not by order of importance or time since the so
 
 This is a list of the songs from the Daily Ukulele books that have previously been on the playlist.
 
+**Catch the Wind** - page 68 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+[Listen to](https://www.youtube.com/watch?v=J8hjEYTpwE8) Donovan's version
+
+**Octopus's Garden** - page 268 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+This version is in the key of C
+
 **San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)
+
+**This Magic Moment** - page 354 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+Try it with a calypso strum!
 
 **You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
 [Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
