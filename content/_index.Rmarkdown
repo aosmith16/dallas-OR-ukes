@@ -39,7 +39,7 @@ Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
 [Ukulele version](https://www.youtube.com/watch?v=l-fKYB7PsoU)  
 [Original](https://www.youtube.com/watch?v=dTTK1RONIJI)
 
-+ [You ain't going nowhere](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
++ [You Ain't Going Nowhere](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
 There are a lot of different versions of this and variable lyrics.  See some examples [here](https://www.youtube.com/watch?v=zuuJ_6xGHeo) and [here](https://www.youtube.com/watch?v=m0vKc3jIjDo)
 
 + **You've Got to Hide Your Love Away**  - page 283 of <span style="color:goldenrod">Yellow Daily Ukulele</span>  
