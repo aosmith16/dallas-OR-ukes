@@ -25,12 +25,29 @@ See the [About](/about/) page for more information about who we are and what we 
 
 ## Current song list
 
-Happy 2019! It's a new year so we're making a new song list.  Bring a song to add to one of the January meetings, either from one of the books or as a tab to hand out.
-
 Below is the list of songs we play at every meeting, which we update periodically.  We play additional songs each time, so bring something you are working on to share.
 
-+ **San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+From the <span style="color:royalblue">Blue Daily Ukulele</span>
+
++ **San Francisco Bay Blues** - page 294  
 We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)
+
++ **It's a Good Day** - page 194  
+Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)  
+
++ **What the World Needs Now is Love** - page 384  
+[Listen](https://www.youtube.com/watch?v=YUaxVQPohlU)
+
++ **When Will I Be Loved** - page 385  
+[Example](https://www.youtube.com/watch?v=9iBgTqz_-vY)
+
++ **Up Around the Bend** - page 371  
+[Original version](https://www.youtube.com/watch?v=BnRsaHXHznQ)  
+
++ **Slow Poke** - page 306  
+[Here it is](https://www.youtube.com/watch?v=lR4fnu_AS1A) in 1952
+
+Tabs
 
 + [Muskrat Love](/tabs/Muskrat Love Ukulele tab - America_Cm.pdf)  
 Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
@@ -42,26 +59,16 @@ Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
 + [You Ain't Going Nowhere](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
 There are a lot of different versions of this and variable lyrics.  See some examples [here](https://www.youtube.com/watch?v=zuuJ_6xGHeo) and [here](https://www.youtube.com/watch?v=m0vKc3jIjDo)
 
-+ **You've Got to Hide Your Love Away**  - page 283 of <span style="color:goldenrod">Yellow Daily Ukulele</span>  
-[Ukulele version](https://www.youtube.com/watch?v=1n7fHG2nUN0)  
-[Original](https://www.youtube.com/watch?v=m3MrtLzDDho)
-
-+ **It's a Good Day** - page 194 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)  
-
-+ **What the World Needs Now is Love** - page 384 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-https://www.youtube.com/watch?v=YUaxVQPohlU
-
-+ **When Will I Be Loved** - page 385 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-https://www.youtube.com/watch?v=9iBgTqz_-vY
-
-+ **Up Around the Bend** - page 371 of <span style="color:royalblue">Blue Daily Ukulele</span>  
-[Original version](https://www.youtube.com/watch?v=BnRsaHXHznQ)  
-
-+ **With a Little Help from My Friends** - page 272 of <span style="color:goldenrod">Yellow Daily Ukulele</span>  
-Many versions.  See [here](https://www.youtube.com/watch?v=0C58ttB2-Qg ) for example
-
 + Good Time Charlie's Got the Blues - tab in key of D   
-[Original](https://www.youtube.com/watch?v=-YP3pIPp8P8)
+[Original version](https://www.youtube.com/watch?v=-YP3pIPp8P8)  
+
+From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
+
++ **You've Got to Hide Your Love Away**  - page 283    
+[Ukulele version](https://www.youtube.com/watch?v=1n7fHG2nUN0)  
+[Original](https://www.youtube.com/watch?v=m3MrtLzDDho)  
+
++ **With a Little Help from My Friends** - page 272  
+Many versions.  See [here](https://www.youtube.com/watch?v=0C58ttB2-Qg ) for example
 
 Past playlist songs are listed under [Additional Resources](/additional/).
