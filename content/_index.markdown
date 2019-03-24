@@ -10,9 +10,11 @@ title: Home
 
 See the [About](/about/) page for more information about who we are and what we do.
 
+**2019**  
+<span style="color:darkgray">
 **January meetings:** January 2, January 16  
 **February meetings:** February 6, February 20  
-**March meetings:** March 6, March 20  
+**March meetings:** March 6, March 20</span>   
 **April meetings:** April 3, April 17  
 **May meetings:** May 1, May 15  
 **June meetings:** June 5, June 19  
@@ -59,7 +61,7 @@ Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
 + [You Ain't Going Nowhere](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
 There are a lot of different versions of this and variable lyrics.  See some examples [here](https://www.youtube.com/watch?v=zuuJ_6xGHeo) and [here](https://www.youtube.com/watch?v=m0vKc3jIjDo)
 
-+ Good Time Charlie's Got the Blues - tab in key of D   
++ [Good Time Charlie's Got the Blues](/tabs/Good Time Charlie's Got The Blues.pdf)   
 [Original version](https://www.youtube.com/watch?v=-YP3pIPp8P8)  
 
 From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
@@ -72,3 +74,5 @@ From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
 Many versions.  See [here](https://www.youtube.com/watch?v=0C58ttB2-Qg ) for example
 
 Past playlist songs are listed under [Additional Resources](/additional/).
+
+Download a list of some 2, 3, or 4 chord songs from the books [here](/tabs/songs_with_2-3-4_chords.xlsx)

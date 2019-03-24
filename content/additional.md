@@ -20,7 +20,11 @@ These are listed alphabetically, not by order of importance or time since the so
 
 [Little Red Uke](/tabs/Little_Red_Uke.pdf)
 
+[Lodi](/tabs/Lodi- Creedence Clearwater Revival.pdf)
+
 [Lonely People](/tabs/Lonely People.docx)
+
+[Nights in White Satin](/tabs/Nights In White Satin.docx)
 
 [Nobody Knows You When You're Down and Out](/tabs/Nobody Knows You When You.docx)
 
