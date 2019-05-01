@@ -14,8 +14,8 @@ See the [About](/about/) page for more information about who we are and what we 
 <span style="color:darkgray">
 **January meetings:** January 2, January 16  
 **February meetings:** February 6, February 20  
-**March meetings:** March 6, March 20</span>   
-**April meetings:** April 3, April 17  
+**March meetings:** March 6, March 20   
+**April meetings:** April 3, April 17</span>  
 **May meetings:** May 1, May 15  
 **June meetings:** June 5, June 19  
 **July meetings:** July 3, July 17  
