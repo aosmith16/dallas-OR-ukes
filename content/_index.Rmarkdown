@@ -10,24 +10,28 @@ title: Home
 
 See the [About](/about/) page for more information about who we are and what we do.
 
-**2019**  
+Past playlist songs and links to ukulele t-shirts are listed under [Additional Resources](/additional/).
+
+**2019 meetings**  
 <span style="color:darkgray">
-**January meetings:** January 2, January 16  
-**February meetings:** February 6, February 20  
-**March meetings:** March 6, March 20   
-**April meetings:** April 3, April 17</span>  
-**May meetings:** May 1, May 15  
-**June meetings:** June 5, June 19  
-**July meetings:** July 3, July 17  
-**August meetings:** August 7, August 21  
-**September meetings:** September 4, September 18  
-**October meetings:** October 2, October 16  
-**November meetings:** November 6, November 20  
-**December meetings:** December 4, December 18  
+**January:** January 2, January 16  
+**February:** February 6, February 20  
+**March:** March 6, March 20   
+**April:** April 3, April 17</span>  
+**May:** May 1, May 15  
+**June:** June 5, June 19  
+**July:** July 3, July 17  
+**August:** August 7, August 21  
+**September:** September 4, September 18  
+**October:** October 2, October 16  
+**November:** November 6, November 20  
+**December:** December 4, December 18  
 
 ## Current song list
 
-Below is the list of songs we play at every meeting, which we update periodically.  We play additional songs each time, so bring something you are working on to share.
+Below is the list of songs we play at every meeting, which we update periodically.  
+
+We always have time for additional songs, so bring something you are working on to share.  If you are looking for songs with simpler chords, download a list of 2, 3, or 4 chord songs from the books [here](/tabs/songs_with_2-3-4_chords.xlsx).
 
 From the <span style="color:royalblue">Blue Daily Ukulele</span>
 
@@ -73,6 +77,4 @@ From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
 + **With a Little Help from My Friends** - page 272  
 Many versions.  See [here](https://www.youtube.com/watch?v=0C58ttB2-Qg ) for example
 
-Past playlist songs are listed under [Additional Resources](/additional/).
 
-Download a list of some 2, 3, or 4 chord songs from the books [here](/tabs/songs_with_2-3-4_chords.xlsx)

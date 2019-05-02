@@ -4,11 +4,16 @@ title: Additional Tabs and Resources
 
 <img src=/img/uke.case.png/ style="max-width:25%;min-width:40px;float:right;" />
 
-This page is to keep track of songs that were previously on the playlist or might be added in the future.  If you have a tab you want to add to the list so others have access to it, [email a PDF or Word document to Dan](mailto:skylarkguy@hotmail.com).
-
-These are listed alphabetically, not by order of importance or time since the song was on the playlist.  :smiley:
+Jump to:  
+[Tabs](#tabs)  
+[Songs from books](#songs-from-the-daily-ukulele-books)  
+["Ukes not nukes" t-shirts](#t-shirts)  
 
 ## Tabs
+
+These are tabs of songs we've played in the past and/or may play in the future.  If you have a tab you want to add to the list so others have access to it, [email a PDF or Word document to Dan](mailto:skylarkguy@hotmail.com).  
+
+These are listed alphabetically, not by order of importance or time since the song was on the playlist.  :smiley:  
 
 [Do You Want to Know a Secret](/tabs/Do You Want to Know a Secret_2018-04.pdf/)
 
@@ -52,20 +57,24 @@ These are listed alphabetically, not by order of importance or time since the so
 
 This is a list of the songs from the Daily Ukulele books that have previously been on the playlist.
 
-**Catch the Wind** - page 68 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+From the <span style="color:royalblue">Blue Daily Ukulele</span>  
+
+**Catch the Wind** - page 68  
 [Listen to](https://www.youtube.com/watch?v=J8hjEYTpwE8) Donovan's version
 
-**Octopus's Garden** - page 268 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+**Octopus's Garden** - page 268   
 This version is in the key of C
 
-**San Francisco Bay Blues** - page 294 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+**San Francisco Bay Blues** - page 294    
 We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)
 
-**This Magic Moment** - page 354 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+**This Magic Moment** - page 354  
 Try it with a calypso strum!
 
-**You and I** - page 397 of <span style="color:royalblue">Blue Daily Ukulele</span>  
+**You and I** - page 397  
 [Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
+
+From the <span style="color:goldenrod">Yellow Daily Ukulele</span>  
 
 ## T-shirts 
 
