@@ -69,12 +69,12 @@ Try it with a calypso strum!
 
 ## T-shirts 
 
-We've been seeing different versions of "Ukes not Nukes" t-shirts worn by group members, and folks expressed interest in some links about them added here.  There is an amazing variety of styles and patterns of these shirts; try searching "ukes not nukes shirt" in your favorite search engine to see some.  
+We've been seeing different versions of "Ukes not Nukes" t-shirts worn by group members, and folks expressed interest in some links added here.  There is an amazing variety of styles and patterns of these shirts; try searching "ukes not nukes shirt" in your favorite search engine to see more.  
 
 Some examples:  
-[Topatoco version](https://topatoco.com/products/sgr-ukes)  
+[Topatoco version](https://topatoco.com/products/sgr-ukes); this design can also be found on [Spreadshirt](https://www.spreadshirt.com/shop/design/ukes+not+nukes+mens+t-shirt-D5bbeb74e205176241ce738a4?sellable=m4v59ZRDx2TgAorNVrmZ-210-7&appearance=1&color=FFFFFF)    
 [Chummy tees version](https://chummytees.com/products/ukes-not-nukes-funny-ukulele-t-shirt-hoodie-tank-top)  
 [Redbubble has several options](https://www.redbubble.com/shop/ukes+not+nukes+t-shirts)  
 [The shirt Dan B. has](https://www.amazon.com/Ukes-Not-Nukes-T-Shirt-Musician/dp/B07D749YFB/)
 
-If you find additional examples you want to share, send them along to [Dan](mailto:skylarkguy@hotmail.com) and we'll add them here.
+If you find additional examples you want to share, send them along to [Dan](mailto:skylarkguy@hotmail.com).

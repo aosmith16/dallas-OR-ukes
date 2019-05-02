@@ -37,9 +37,6 @@ We play more-or-less the Eric Clapton version, which you can [listen to here](ht
 + **It's a Good Day** - page 194  
 Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)  
 
-+ **What the World Needs Now is Love** - page 384  
-[Listen](https://www.youtube.com/watch?v=YUaxVQPohlU)
-
 + **When Will I Be Loved** - page 385  
 [Example](https://www.youtube.com/watch?v=9iBgTqz_-vY)
 
@@ -63,6 +60,9 @@ There are a lot of different versions of this and variable lyrics.  See some exa
 
 + [Good Time Charlie's Got the Blues](/tabs/Good Time Charlie's Got The Blues.pdf)   
 [Original version](https://www.youtube.com/watch?v=-YP3pIPp8P8)  
+
++ [Lodi](/tabs/Lodi- Creedence Clearwater Revival.pdf)  
+[Here's CCR](https://www.youtube.com/watch?v=yA7iGxV6rt4)  
 
 From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
 
