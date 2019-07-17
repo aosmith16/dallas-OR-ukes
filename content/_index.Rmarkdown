@@ -18,9 +18,9 @@ Past playlist songs and links to ukulele t-shirts are listed under [Additional R
 **February:** February 6, February 20  
 **March:** March 6, March 20   
 **April:** April 3, April 17  
-**May:** May 1, May 15</span>  
+**May:** May 1, May 15    
 **June:** June 5, June 19  
-**July:** July 3, July 17  
+**July:** July 3, July 17</span>  
 **August:** August 7, August 21  
 **September:** September 4, September 18  
 **October:** October 2, October 16  
@@ -73,8 +73,3 @@ From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
 + **You've Got to Hide Your Love Away**  - page 283    
 [Ukulele version](https://www.youtube.com/watch?v=1n7fHG2nUN0)  
 [Original](https://www.youtube.com/watch?v=m3MrtLzDDho)  
-
-+ **With a Little Help from My Friends** - page 272  
-Many versions.  See [here](https://www.youtube.com/watch?v=0C58ttB2-Qg ) for example
-
-
