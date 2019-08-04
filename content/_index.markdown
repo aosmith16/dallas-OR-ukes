@@ -52,6 +52,11 @@ Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)
 
 Tabs
 
++ [Best Day of My Life](/tabs/Best_Day_of_My_Life.pdf)  
+[Tablature for solos](/tabs/Best_Day_of_My_Life_Solos.pdf)  
+[Aldrine Guerrero's Uke Lesson 79](https://ukuleleunderground.com/2014/06/uke-lesson-79-best-day-of-my-life-american-authors/)  
+[Play-a-long version](https://www.youtube.com/watch?v=U8z1NyrN3xQ)  
+
 + [Muskrat Love](/tabs/Muskrat Love Ukulele tab - America_Cm.pdf)  
 Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
 
