@@ -20,8 +20,8 @@ Past playlist songs and links to ukulele t-shirts are listed under [Additional R
 **April:** April 3, April 17  
 **May:** May 1, May 15    
 **June:** June 5, June 19  
-**July:** July 3, July 17</span>  
-**August:** August 7, August 21  
+**July:** July 3, July 17  
+**August:** August 7, August 21</span>  
 **September:** September 4, September 18  
 **October:** October 2, October 16  
 **November:** November 6, November 20  
