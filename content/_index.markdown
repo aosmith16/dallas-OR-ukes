@@ -52,25 +52,25 @@ Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)
 
 Tabs
 
-+ [Best Day of My Life](/tabs/Best_Day_of_My_Life.pdf)  
-[Tablature for solos](/tabs/Best_Day_of_My_Life_Solos.pdf)  
-[Aldrine Guerrero's Uke Lesson 79](https://ukuleleunderground.com/2014/06/uke-lesson-79-best-day-of-my-life-american-authors/)  
-[Play-a-long version](https://www.youtube.com/watch?v=U8z1NyrN3xQ)  
++ [Best Day of My Life tab, with solos](/tabs/Best Day of My Life.docx)  
+[Separate tablature for solos](/tabs/Best_Day_of_My_Life_Solos.pdf)  
+[Aldrine Guerrero's Uke Lesson 79](https://ukuleleunderground.com/2014/06/uke-lesson-79-best-day-of-my-life-american-authors/), introduces notes, strum, and finger-picking patterns  
+[The play-a-long video](https://www.youtube.com/watch?v=U8z1NyrN3xQ) allows you to practice at home  
 
-+ [Muskrat Love](/tabs/Muskrat Love Ukulele tab - America_Cm.pdf)  
++ [Muskrat Love tab](/tabs/Muskrat Love Ukulele tab - America_Cm.pdf)  
 Listen to it [here](https://www.youtube.com/watch?v=bjqeNoi6EmM)
 
-+ [The Way](/tabs/The Way - Am.docx)  
++ [The Way tab](/tabs/The Way - Am.docx)  
 [Ukulele version](https://www.youtube.com/watch?v=l-fKYB7PsoU)  
 [Original](https://www.youtube.com/watch?v=dTTK1RONIJI)
 
-+ [You Ain't Going Nowhere](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
++ [You Ain't Going Nowhere tab](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
 There are a lot of different versions of this and variable lyrics.  See some examples [here](https://www.youtube.com/watch?v=zuuJ_6xGHeo) and [here](https://www.youtube.com/watch?v=m0vKc3jIjDo)
 
-+ [Good Time Charlie's Got the Blues](/tabs/Good Time Charlie's Got The Blues.pdf)   
++ [Good Time Charlie's Got the Blues tab](/tabs/Good Time Charlie's Got The Blues.pdf)   
 [Original version](https://www.youtube.com/watch?v=-YP3pIPp8P8)  
 
-+ [Lodi](/tabs/Lodi- Creedence Clearwater Revival.pdf)  
++ [Lodi tab](/tabs/Lodi- Creedence Clearwater Revival.pdf)  
 [Here's CCR](https://www.youtube.com/watch?v=yA7iGxV6rt4)  
 
 From the <span style="color:goldenrod">Yellow Daily Ukulele</span>
