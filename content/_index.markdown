@@ -8,6 +8,8 @@ title: Home
 
 ## _Playing ukuleles in the Mid-Valley_
 
+<span style = "font-size: 14pt">Note: We will be meeting only on first Wednesdays from October 2019 through January 2020.</span>
+
 See the [About](/about/) page for more information about who we are and what we do.
 
 Past playlist songs and links to ukulele t-shirts are listed under [Additional Resources](/additional/).
@@ -21,11 +23,11 @@ Past playlist songs and links to ukulele t-shirts are listed under [Additional R
 **May:** May 1, May 15    
 **June:** June 5, June 19  
 **July:** July 3, July 17  
-**August:** August 7, August 21</span>  
-**September:** September 4, September 18  
-**October:** October 2, October 16  
-**November:** November 6, November 20  
-**December:** December 4, December 18  
+**August:** August 7, August 21  
+**September:** September 4, September 18</span>  
+**October:** October 2  
+**November:** November 6  
+**December:** December 4  
 
 ## Current song list
 
