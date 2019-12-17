@@ -2,32 +2,32 @@
 title: Home
 ---
 
-<img src=/img/four.ukes.png/ style="max-width:20%;min-width:40px;float:right;" />
+<img src=/img/four.ukes.png style="max-width:20%;min-width:40px;float:right;" />
 
 # Dallas (Oregon!) Ukulele Group
 
 ## _Playing ukuleles in the Mid-Valley_
 
-<span style = "font-size: 14pt">Note: We will be meeting only on first Wednesdays from October 2019 through January 2020.</span>
+<span style = "font-size: 14pt">Note: We will be meeting only on first Wednesdays from October 2019 through January 2020. Our January meeting will be on January 8</span>
 
 See the [About](/about/) page for more information about who we are and what we do.
 
 Past playlist songs and links to ukulele t-shirts are listed under [Additional Resources](/additional/).
 
-**2019 meetings**  
-<span style="color:darkgray">
-**January:** January 2, January 16  
-**February:** February 6, February 20  
-**March:** March 6, March 20   
-**April:** April 3, April 17  
-**May:** May 1, May 15    
-**June:** June 5, June 19  
-**July:** July 3, July 17  
-**August:** August 7, August 21  
-**September:** September 4, September 18</span>  
-**October:** October 2  
-**November:** November 6  
-**December:** December 4  
+**2020 meetings**  
+<span style="color:darkgray"></span>
+**January:** January 8  
+**February:** February 5  
+**March:** March 4   
+**April:** April 1  
+**May:** May 6    
+**June:** June 3    
+**July:** July 1  
+**August:** August 5  
+**September:** September 2  
+**October:** October 7  
+**November:** November 4  
+**December:** December 2  
 
 ## Current song list
 

@@ -2,7 +2,7 @@
 title: Additional Tabs and Resources
 ---
 
-<img src=/img/uke.case.png/ style="max-width:25%;min-width:40px;float:right;" />
+<img src=/img/uke.case.png style="max-width:25%;min-width:40px;float:right;" />
 
 Jump to:  
 [Tabs](#tabs)  
