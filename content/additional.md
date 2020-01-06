@@ -15,6 +15,8 @@ These are tabs of songs we've played in the past and/or may play in the future. 
 
 These are listed alphabetically, not by order of importance or time since the song was on the playlist.  :smiley:  
 
+[Best Day of My Life tab](/tabs/Best Day of My Life.docx)  
+
 [Do You Want to Know a Secret](/tabs/Do You Want to Know a Secret_2018-04.pdf/)
 
 [Hele on to Kauai](/tabs/Hele on to Kauai_2018.pdf/)
@@ -51,7 +53,11 @@ These are listed alphabetically, not by order of importance or time since the so
 
 [Wagon wheel finger-picking](/tabs/Wagon_wheel_picking.pdf)
 
+[The Way tab](/tabs/The Way - Am.docx)  
+
 [While My Guitar Gently Weeps](/tabs/While My Guitar Gently Weeps- Guitar.doc)
+
+[You Ain't Going Nowhere tab](/tabs/You_Aint_Goin_Nowhere_G.pdf)  
 
 ## Songs from the Daily Ukulele books
 
@@ -62,11 +68,17 @@ From the <span style="color:royalblue">Blue Daily Ukulele</span>
 **Catch the Wind** - page 68  
 [Listen to](https://www.youtube.com/watch?v=J8hjEYTpwE8) Donovan's version
 
+**It's a Good Day** - page 194  
+Listen [here](https://www.youtube.com/watch?v=If82O1e0bow)  
+
 **Octopus's Garden** - page 268   
 This version is in the key of C
 
 **San Francisco Bay Blues** - page 294    
 We play more-or-less the Eric Clapton version, which you can [listen to here](https://www.youtube.com/watch?v=qKi3ruCmZxk)
+
+**Slow Poke** - page 306  
+[Here it is](https://www.youtube.com/watch?v=lR4fnu_AS1A) in 1952  
 
 **This Magic Moment** - page 354  
 Try it with a calypso strum!
@@ -74,7 +86,18 @@ Try it with a calypso strum!
 **You and I** - page 397  
 [Listen to Ingrid Michaelson sing it](https://www.youtube.com/watch?v=XdEN1b-dwlw)  
 
+**When Will I Be Loved** - page 385  
+[Example](https://www.youtube.com/watch?v=9iBgTqz_-vY)
+
+**Up Around the Bend** - page 371  
+[Original version](https://www.youtube.com/watch?v=BnRsaHXHznQ)  
+
+
 From the <span style="color:goldenrod">Yellow Daily Ukulele</span>  
+
+**You've Got to Hide Your Love Away**  - page 283    
+[Ukulele version](https://www.youtube.com/watch?v=1n7fHG2nUN0)  
+[Original](https://www.youtube.com/watch?v=m3MrtLzDDho)  
 
 ## T-shirts 
 
