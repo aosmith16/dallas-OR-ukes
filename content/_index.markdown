@@ -18,9 +18,9 @@ Past playlist songs and links to ukulele t-shirts are listed under [Additional R
 <span style="color:darkgray">
 **January:** January 8  
 **February:** February 5  
-**March:** March 4</span>   
-**April:** **CANCELLED**  
-**May:** May 6    
+**March:** March 4   
+**April:** **CANCELLED** </span>   
+**May:** **CANCELLED**    
 **June:** June 3    
 **July:** July 1  
 **August:** August 5  
