@@ -14,20 +14,20 @@ See the [About](/about/) page for more information about who we are and what we 
 
 Past playlist songs and links to ukulele t-shirts are listed under [Additional Resources](/additional/).
 
-**2020 meetings**  
+**All 2020 meetings are CANCELLED due to COVID-19.**   
 <span style="color:darkgray">
 **January:** January 8  
 **February:** February 5  
 **March:** March 4   
 **April:** **CANCELLED**   
 **May:** **CANCELLED**  
-**June:** **CANCELLED**  </span>  
+**June:** **CANCELLED**    
 **July:** **CANCELLED**    
-**August:** August 5  
-**September:** September 2  
-**October:** October 7  
-**November:** November 4  
-**December:** December 2  
+**August:** **CANCELLED**  
+**September:** **CANCELLED**  
+**October:** **CANCELLED**  
+**November:** **CANCELLED**  
+**December:** **CANCELLED**  </span>
 
 ## Current song list
 
